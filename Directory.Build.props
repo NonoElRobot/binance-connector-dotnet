@@ -1,0 +1,8 @@
+﻿<Project>
+  <PropertyGroup>
+    <DotNetStandardVersion>netstandard2.1</DotNetStandardVersion>
+    <DotNetCoreVersion>net6.0</DotNetCoreVersion>
+    <LangVersion>preview</LangVersion>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>  
+</Project>
